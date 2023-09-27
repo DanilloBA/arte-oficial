@@ -42,14 +42,17 @@ height:350px;
 
 .orden-3{display: flex;}
 
-.orden-40{flex-wrap: wrap;display: flex;width: 60%;}
+.orden-40{flex-wrap: wrap;display: flex;width: 60%;margin: 0%;}
 
 
-.orden-4{display: flex;justify-content: center;text-align: center;align-items: center;color: rgb(5, 3, 0);flex-direction:column;color: rgb(0, 0, 0);}
+
+.orden-4{display: flex;justify-content: center;text-align: center;align-items: center;color: rgb(5, 3, 0);flex-direction:column;color: rgb(0, 0, 0);width: 90%;}
+
 
 .orden-4plus{display: flex;height:500px ;  width: auto;}
 
-.orden-44{background-color: rgb(1, 252, 101);flex-wrap: wrap;display: flex;width:60%;flex-direction: column;border-end-end-radius: 2em;color: rgb(0, 0, 0);align-items: center;justify-content: center; }
+.orden-44{background-color: rgb(1, 252, 101);flex-wrap: wrap;display: flex;width:60%;flex-direction: column;border-end-end-radius: 3em;color: rgb(0, 0, 0);align-items: center;justify-content: center;text-align: center; }
+@media(min-width:810px){.orden-44{max-width: 693.6px;}}
 
 
 
@@ -84,5 +87,7 @@ height:350px;
 .formato-10{display: flex;justify-content: center;text-align: center;margin-top: 15px;}
 
 .orden-12{color:white}
+
+.orden-12plus{display: flex;justify-content: center;flex-wrap: wrap;color: chartreuse;text-align: center;}
 
 .formato-11{display: flex; text-align: center; color: darkgoldenrod;}
