@@ -8,7 +8,7 @@ html {
 
 .orden-00{background-color: black;}
 
-.formato-0{display: flex;align-items: center;justify-content: center; height:500px;background-image: url(asset/artigo-16.jpg);margin: 0%;flex-direction: column;background-size: cover;}
+.formato-0{display: flex;align-items: center;justify-content: center; height:700px;background-image: url(asset/artigo-16.jpg);margin: 0%;flex-direction: column;background-size: cover;}
 
 
 .orden-00plus{display: flex;margin-top: 10px;flex-direction: column;justify-content: center;align-items: center;}
