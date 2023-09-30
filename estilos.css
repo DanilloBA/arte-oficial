@@ -35,23 +35,25 @@ height:350px;
 
 .orden-2plus{display: flex;width: 100%;margin: 10px;}
 
-.formato-3{display: flex;justify-content: center;text-align: center;background-color: rgb(0, 0, 0);color: rgb(20, 252, 8); width: 100%;}
+.formato-3{display: flex;justify-content: center;text-align: center;background-color: rgb(0, 0, 0);color: rgb(20, 252, 8); }
 
 
-.orden-3plus{display: flex;width: 60%;margin-top: 20px;}
+.orden-3plus{display: flex;width: 40%;margin-top: 20px;}
 
 .orden-3{display: flex;}
 
-.orden-40{flex-wrap: wrap;display: flex;width: 60%;margin: 0%;}
+.orden-40{flex-wrap: wrap;display: flex;width: 60%;margin: 0%;border-top-left-radius: 3em;}
 
 
 
 .orden-4{display: flex;justify-content: center;text-align: center;align-items: center;color: rgb(5, 3, 0);flex-direction:column;color: rgb(0, 0, 0);width: 90%;}
 
+.orden-44plus{display: flex;width: 70%;flex-wrap: wrap;justify-content: center;}
 
-.orden-4plus{display: flex;height:500px ;  width: auto;}
 
-.orden-44{background-color: rgb(1, 252, 101);flex-wrap: wrap;display: flex;width:60%;flex-direction: column;border-end-end-radius: 3em;color: rgb(0, 0, 0);align-items: center;justify-content: center;text-align: center; }
+.orden-4plus{display: flex;height:auto ;  width:100px;}
+
+.orden-44{background-color: rgb(1, 252, 101);flex-wrap: wrap;display: flex;width:60%;flex-direction: column;border-end-end-radius: 3em;color: rgb(0, 0, 0);align-items: center;justify-content: center;text-align: center; height: 300px;}
 @media(min-width:810px){.orden-44{max-width: 693.6px;}}
 
 
@@ -66,6 +68,8 @@ height:350px;
   .orden-6{background-color: gold;margin: 0%;height: 60px;text-align: center;}
 
   .formato-6{display: flex;background-color: gold;border-radius: 3em;width: 300px;height: 300px;margin: 20px;text-align: center;justify-content: center;}
+
+  .formato-6plus{display: flex;justify-content: center; flex-direction: column;}
 
   .orden-7{justify-content: center;text-align: center;display: flex;}
 
@@ -91,3 +95,15 @@ height:350px;
 .orden-12plus{display: flex;justify-content: center;flex-wrap: wrap;color: chartreuse;text-align: center;}
 
 .formato-11{display: flex; text-align: center; color: darkgoldenrod;}
+
+.orden-11plus{}
+
+.formato-12{ margin: 10px;flex-direction: row;display: flex;flex-wrap: wrap;align-items: center;justify-content: center;text-align: center}
+
+.orden-13{display flex; width: 230px; background-color: fuchsia; border-radius: 2em; margin:43px}
+
+.formato-13{ margin: 10px;flex-direction: row;display: flex;flex-wrap: wrap;justify-content: center;text-align: center;width: auto;align-items: center}
+
+.orden-14{display flex; width: 320px; border-radius: 2em; margin:2px;border-color: rgb(255, 255, 255);align-items: center;justify-content: center;}
+
+.orden-14plus{margin: 5px;width: 250px;padding: 5px;}
