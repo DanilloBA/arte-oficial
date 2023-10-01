@@ -55,8 +55,8 @@ height:350px;
 
 .orden-4plus{display: flex;height:auto ;  width:100px;}
 
-.orden-44{background-color: rgb(1, 252, 101);flex-wrap: wrap;display: flex;width:90%;flex-direction: column;border-end-end-radius: 3em;color: rgb(0, 0, 0);align-items: center;justify-content: center;text-align: center; height: 300px;}
-@media(min-width:810px){.orden-44{max-width: 1040.4px;}}
+.orden-44{background-color: rgb(7, 176, 219);flex-wrap: wrap;display: flex;width:90%;flex-direction: column;border-end-end-radius: 3em;color: rgb(0, 0, 0);align-items: center;justify-content: center;text-align: center; height: 300px;}
+@media(min-width:810px){.orden-44{max-width: 604.8px;}}
 
 
 
@@ -69,9 +69,11 @@ height:350px;
 
   .orden-6{background-color: gold;margin: 0%;height: 60px;text-align: center;}
 
-  .formato-6{display: flex;background-color: gold;border-radius: 3em;width: 300px;height: 300px;margin: 20px;text-align: center;justify-content: center;flex-direction: column;}
+  .formato-6{display: flex;background-color: gold;border-radius: 3em;width: 300px;height: 300px;margin: 20px;text-align: center;justify-content: center;flex-direction: column;align-items: center;}
 
   .formato-6plus{display: flex;justify-content: center; flex-direction: column;background-color: gold}
+
+  .orden-7plus{display: flex;width: 90px;margin : 10px;}
 
   .orden-7{justify-content: center;text-align: center;display: flex;}
 
@@ -94,7 +96,7 @@ height:350px;
 
 .orden-12{color:white}
 
-.orden-12plus{display: flex;justify-content: center;flex-wrap: wrap;color: chartreuse;text-align: center;}
+.orden-12plus{display: flex;justify-content: center;flex-wrap: wrap;color: rgb(162, 227, 230);text-align: center;}
 
 .formato-11{display: flex; text-align: center; color: darkgoldenrod;}
 
@@ -110,13 +112,13 @@ height:350px;
 
 .orden-14plus{margin: 5px;width: 250px;padding: 5px;}
 
-.formato-14{background-color: rgb(24, 24, 24); width: auto;height: 100px;align-items: center}
+.formato-14{ width: auto;height: 100px;align-items: center;display: flex;align-items: center;margin: 10px;}
 
-.formato-14plus{display: flex;flex-direction: row;}
+.formato-14plus{flex-direction: row;background-color: rgb(7, 138, 199);align-items: center;display: flex;}
 
 .formato-15{display: flex;justify-content: center;align-items: center;}
 
 .orden15{width: 250px;justify-content: center;align-items: center;display: flex;}
 
 
-.orden-16{width: 150px;}
+.orden-16{width: 90px;}
