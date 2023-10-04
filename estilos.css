@@ -65,11 +65,11 @@ height:350px;
 
   .formato-4{display: flex;text-align: center;flex-direction:row;flex-wrap: wrap; justify-content: center;align-items: center;}
 
-  .formato-4plus{ display: flex;flex-wrap: wrap;flex-direction: column;align-items: center;justify-content: center;}
+  .formato-4plus{ display: flex;flex-wrap: wrap;flex-direction:row;align-items: center;justify-content: center;background-image: url(asset/artigo-16.jpg);background-size: cover;}
 
 
   .formato-5{flex-wrap: wrap;justify-content: center;align-items: center;display: flex;width: 340px;margin: auto;margin: 10px;}
-  @media(min-width:810px){.formato-5{max-width: 500px;}}
+  @media(min-width:800px){.formato-5{max-width: 500px;}}
 
   .orden-5{display: flex;justify-content: center;align-items: center;}
 
