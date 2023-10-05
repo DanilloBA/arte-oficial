@@ -38,7 +38,7 @@ height:350px;
 
 .orden-2plus{display: flex;width: 100%;margin: 10px;}
 
-.formato-3{display: flex;justify-content: center;text-align: center;background-color: rgb(0, 0, 0);color: rgb(20, 252, 8);width:auto;margin:50px;}
+.formato-3{display: flex;justify-content: center;text-align: center;background-color: rgb(0, 0, 0);color: rgb(20, 252, 8);width:auto;margin:20px;}
 
 .formato-3plus{}
 
@@ -63,19 +63,19 @@ height:350px;
 
 
 
-  .formato-4{display: flex;text-align: center;flex-direction:row;flex-wrap: wrap; justify-content: center;align-items: center;}
+  .formato-4{display: flex;text-align: center;flex-direction:row; justify-content: center;align-items: center;flex-wrap: wrap;}
 
-  .formato-4plus{ display: flex;flex-wrap: wrap;flex-direction:row;align-items: center;justify-content: center;background-image: url(asset/artigo-16.jpg);background-size: cover;}
+  .formato-4plus{ display: flex;flex-direction:row;align-items: center;justify-content: center;background-image: url(asset/artigo-16.jpg);background-size: cover;width: auto;}
 
 
-  .formato-5{flex-wrap: wrap;justify-content: center;align-items: center;display: flex;width: 340px;margin: auto;margin: 10px;}
-  @media(min-width:800px){.formato-5{max-width: 500px;}}
+  .formato-5{flex-wrap: wrap;justify-content: center;align-items: center;display: flex;width: 320px;margin: 5px;}
+ 
 
   .orden-5{display: flex;justify-content: center;align-items: center;}
 
-  .orden-6{background-color: gold;margin: 0%;height: 60px;text-align: center;}
+  .orden-6{background-color: gold;margin: 0%;height: 50px;text-align: center;}
 
-  .formato-6{display: flex;background-color: gold;border-radius: 3em;width: 300px;height: 300px;margin: 20px;text-align: center;justify-content: center;flex-direction: column;align-items: center;}
+  .formato-6{display: flex;background-color: gold;border-radius: 3em;width: 300px;height: 300px;margin: 10px;text-align: center;justify-content: center;flex-direction: column;align-items: center;}
 
   .formato-6plus{display: flex;justify-content: center; flex-direction: column;background-color: gold}
 
@@ -85,7 +85,7 @@ height:350px;
 
   .formato-7{display: flex;flex-direction: row; justify-content: center;flex-wrap: wrap;}
 
-.orden-8{margin-top: 0%; background-color: rgb(223, 6, 172);height: 60px;text-align: center;}
+.orden-8{margin-top: 0%; background-color: rgb(223, 6, 172);height: 50px;text-align: center;}
 
 .formato-8{height: auto;color: white;}
 
@@ -112,11 +112,11 @@ height:350px;
 
 .orden-13{display flex; width: 230px; background-color: fuchsia; border-radius: 2em; margin:43px}
 
-.formato-13{ margin: 10px;flex-direction: row;display: flex;flex-wrap: wrap;justify-content: center;text-align: center;width: auto;align-items: center}
+.formato-13{ margin: 5px;flex-direction: row;display: flex;flex-wrap: wrap;justify-content: center;text-align: center;width: auto;align-items: center}
 
 .orden-14{display flex; width: 320px; border-radius: 2em; margin:2px;border-color: rgb(255, 255, 255);align-items: center;justify-content: center;}
 
-.orden-14plus{margin: 5px;width: 250px;padding: 5px;}
+.orden-14plus{margin: 5px;width: 250px;}
 
 .formato-14{ width: auto;height: 100px;align-items: center;display: flex;align-items: center;margin: 10px;}
 
