@@ -27,6 +27,8 @@ height:350px;
 
  .orden-plus{width: 250px;align-items: center;display: flex;margin-top: 50px;}
 
+  .orden-plus1{width: 40%;align-items: center;display: flex;margin-top: 90px;}
+
  .orden-0{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center; align-items: center;
 ;background-color: purple;margin-top: 0%;}
 
@@ -104,9 +106,9 @@ height:350px;
 
 .orden-12plus{display: flex;justify-content: center;flex-wrap: wrap;color: rgb(162, 227, 230);text-align: center;}
 
-.formato-11{display: flex; text-align: center; color: darkgoldenrod;}
+.formato-11{display: flex; text-align: center; color: darkgoldenrod;margin-top: 60px;justify-content: center;text-align: center;align-items: center;}
 
-.orden-11plus{}
+.orden-11plus{display:flex; flex-direction: column;justify-content: center;text-align: center;align-items: center;}
 
 .formato-12{ margin: 10px;flex-direction: row;display: flex;flex-wrap: wrap;align-items: center;justify-content: center;text-align: center}
 
@@ -128,3 +130,5 @@ height:350px;
 
 
 .orden-16{width: 90px;}
+
+.orden-17{color: linen;}
