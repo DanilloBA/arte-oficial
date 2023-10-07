@@ -30,7 +30,7 @@ height:350px;
   .orden-plus1{width: 40%;align-items: center;display: flex;margin-top: 90px;}
 
  .orden-0{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center; align-items: center;
-;background-color: purple;margin-top: 0%;}
+;margin-top: 0%;background-image: url(asset/walpaper\ video.png);background-size: cover;background-repeat: no-repeat;}
 
 .orden-0plus{background-image: url(asset/artigo-13.png);background-size: cover;height: 10px;}
 
@@ -47,7 +47,7 @@ height:350px;
 
 .orden-3plus{display: flex;width: 60%;margin-top: 60px;}
 
-.orden-3{display: flex;}
+.orden-3{display: flex;color: black;}
 
 .orden-40{flex-wrap: wrap;display: flex;width: 90%;margin: 0%;border-top-left-radius: 3em;}
 
