@@ -66,11 +66,15 @@ height:350px;
 
 
   .formato-4{display: flex;text-align: center;flex-direction:row; justify-content: center;align-items: center;flex-wrap: wrap;}
+@media(min-width:680px){.formato-4{width: 980px; justify-content:center;align-items: center;}
+}
 
   .formato-4plus{ display: flex;flex-direction:row;align-items: center;justify-content: center;background-image: url(asset/artigo-16.jpg);background-size: cover;width: auto;}
 
 
   .formato-5{flex-wrap: wrap;justify-content: center;align-items: center;display: flex;width: 320px;margin: 5px;}
+  @media(min-width:680px){.formato-5{width: 450px; justify-content:center;align-items: center;}
+}
  
 
   .orden-5{display: flex;justify-content: center;align-items: center;}
