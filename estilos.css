@@ -73,7 +73,7 @@ height:350px;
 
 
   .formato-5{flex-wrap: wrap;justify-content: center;align-items: center;display: flex;width: 320px;margin: 5px;}
-  @media(min-width:680px){.formato-5{width: 450px; justify-content:center;align-items: center;}
+  @media(min-width:680px){.formato-5{width: 480px; justify-content:center;align-items: center;}
 }
  
 
@@ -136,3 +136,14 @@ height:350px;
 .orden-16{width: 90px;}
 
 .orden-17{color: linen;}
+
+
+.formato-16{display: flex; justify-content: center; align-items: center;flex-wrap: wrap;flex-direction: column;}
+
+.formato-15plus{display: flex; justify-content: center; align-items: center;flex-wrap: wrap;flex-direction: column;}
+
+.orden-15plus{display: flex;height:auto ;justify-content: center;width: 70%}
+
+.orden-16plus{display: flex;text-align: center; margin-top: 20px;}
+
+.orden-17plus{color: lightyellow;display: flex;}
