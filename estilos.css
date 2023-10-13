@@ -16,6 +16,12 @@ font-family: 'Ubuntu', sans-serif;}
 
 .orden-00plus{display: flex;margin-top: 10px;flex-direction: column;justify-content: center;align-items: center;}
 
+.orden-whatsapp{ width:40px;height: 40px;
+background-image: url(asset/Whatsapp_logo_svg.png);}
+
+.disposicion{display: flex;justify-content: center;align-items: center;margin-top: 25px;flex-direction: column;}
+
+
 .formato-1{width:80%;display: flex;}
 
 .formato-2{;

@@ -11,6 +11,7 @@
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
+  background-image: url(asset/Whatsapp_logo_svg.png);
 }
 .float:hover {
 	text-decoration: none;
@@ -20,4 +21,5 @@
 
 .my-float{
 	margin-top:16px;
+
 }
