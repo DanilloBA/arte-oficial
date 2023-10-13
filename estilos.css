@@ -112,6 +112,8 @@ height:350px;
 
 .orden-11{color: white; width: 300px;flex-wrap: wrap;text-align: center;}
 
+.disposicion-2{display: flex; margin-top: 150px;}
+
 .formato-10{display: flex;justify-content: center;text-align: center;margin-top: 15px;}
 
 .orden-12{color:white}
@@ -155,3 +157,5 @@ height:350px;
 .orden-16plus{display: flex;text-align: center; margin-top: 20px;}
 
 .orden-17plus{color: rgb(172, 3, 101);display: flex;margin top: 130px;}
+
+.disposicion-3{display: flex;justify-content: center;}
