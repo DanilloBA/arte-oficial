@@ -27,7 +27,9 @@ height:350px;
 
  .orden-plus{width: 250px;align-items: center;display: flex;margin-top: 50px;}
 
-  .orden-plus1{width: 40%;align-items: center;display: flex;margin-top: 90px;}
+  .orden-plus1{width: 50%;align-items: center;display: flex;margin-top: 90px;}
+
+  .article-plus{display: flex;align-items: center;justify-content: center;flex-direction: column;}
 
  .orden-0{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center; align-items: center;
 ;margin-top: 0%;background-image: url(asset/walpaper\ video.png);background-size: cover;background-repeat: no-repeat;}
