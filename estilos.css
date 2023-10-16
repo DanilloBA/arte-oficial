@@ -9,17 +9,17 @@ font-family: 'Ubuntu', sans-serif;}
 
 
 
-.orden-00{background-color: black;}
+.orden-00{background-color: rgb(0, 0, 0);}
 
 .formato-0{display: flex;align-items: center;justify-content: center; height:700px;background-image: url(asset/artigo-16.jpg);margin: 0%;flex-direction: column;background-size: cover;}
 
 
-.orden-00plus{display: flex;margin-top: 10px;flex-direction: column;justify-content: center;align-items: center;}
+.orden-00plus{display: flex;flex-direction: column;justify-content: center;align-items: center;}
 
 .orden-whatsapp{ width:40px;height: 40px;
 background-image: url(asset/Whatsapp_logo_svg.png);}
 
-.disposicion{display: flex;justify-content: center;align-items: center;margin-top: 25px;flex-direction: column;}
+.disposicion{display: flex;justify-content: center;align-items: center;flex-direction: column;}
 
 
 .formato-1{width:80%;display: flex;}
@@ -126,7 +126,7 @@ height:350px;
 
 .formato-12{ margin: 10px;flex-direction: row;display: flex;flex-wrap: wrap;align-items: center;justify-content: center;text-align: center}
 
-.orden-13{display flex; width: 230px; background-color: fuchsia; border-radius: 2em; margin:43px}
+.orden-13{display flex; width: 230px; background-color: fuchsia; border-radius: 1em; margin:43px}
 
 .formato-13{ margin: 5px;flex-direction: row;display: flex;flex-wrap: wrap;justify-content: center;text-align: center;width: auto;align-items: center}
 
